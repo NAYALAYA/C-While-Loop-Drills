@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DrillsTwo/DrillsTwo.csproj" />
+  <Project Path="DrillThree/DrillThree.csproj" />
+  <Project Path="WhileLoopPract/WhileLoopPract.csproj" />
+</Solution>
