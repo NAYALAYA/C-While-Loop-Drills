@@ -12,3 +12,4 @@
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.pdb
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.genruntimeconfig.cache
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillThree/obj/Debug/net10.0/ref/DrillThree.dll
+/Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillThree/obj/Debug/net10.0/DrillThree.sourcelink.json
