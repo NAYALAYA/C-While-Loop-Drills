@@ -3,3 +3,18 @@
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfo.cs
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.csproj.CoreCompileInputs.cache
 /Users/aniyacorivano/Desktop/C# While Loop Drills/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.sourcelink.json
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfoInputs.cache
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfo.cs
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.csproj.CoreCompileInputs.cache
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.sourcelink.json
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/bin/Debug/net10.0/DrillFour
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/bin/Debug/net10.0/DrillFour.deps.json
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/bin/Debug/net10.0/DrillFour.runtimeconfig.json
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/bin/Debug/net10.0/DrillFour.dll
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/bin/Debug/net10.0/DrillFour.pdb
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.dll
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/refint/DrillFour.dll
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.pdb
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/DrillFour.genruntimeconfig.cache
+/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/Debug/net10.0/ref/DrillFour.dll

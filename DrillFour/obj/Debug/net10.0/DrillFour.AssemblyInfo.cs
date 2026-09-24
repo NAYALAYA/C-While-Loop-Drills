@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrillFour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92349e7362b2f780761846500372668312a498ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+255723c6b32fbd945f05be0afd4de918d8b8934f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrillFour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrillFour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

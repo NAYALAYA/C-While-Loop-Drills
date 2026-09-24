@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/DrillFour.csproj",
-      "projectName": "DrillFour",
-      "projectPath": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/DrillFour.csproj",
+      "projectUniqueName": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFive/DrillFive.csproj",
+      "projectName": "DrillFive",
+      "projectPath": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFive/DrillFive.csproj",
       "packagesPath": "/Users/aniyacorivano/.nuget/packages/",
-      "outputPath": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFour/obj/",
+      "outputPath": "/Users/aniyacorivano/C-While-Loop-Drills/DrillFive/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aniyacorivano/.nuget/NuGet/NuGet.Config"
